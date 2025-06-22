@@ -5,7 +5,7 @@
 > Instantly answer: **How big is the market?** • **Who pays what?** • **Which roles dominate?** • **How remote-friendly are employers?** • **Do large companies really offer better perks?**
 
 <p align="center">
-  <img src="images/dashboard.png" width="820" alt="AIscope dashboard preview">
+  <img src="dashboard-screenshot.png" width="820" alt="AIscope dashboard preview">
 </p>
 
 ---
@@ -16,7 +16,7 @@ aiscope-dashboard/
 ├── Dataset
 ├── aiscope_dashboard.twbx # Tableau workbook (Tableau Public 2024.1+)
 ├── dashboard-screenshot
-├── README.md # you’re here
+└── README.md # you’re here
 
 yaml
 Copy
